@@ -1,0 +1,3 @@
+﻿  链表队列.cpp
+E:\code\队列\链表队列.cpp(130,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  队列.vcxproj -> E:\code\队列\x64\Debug\队列.exe
