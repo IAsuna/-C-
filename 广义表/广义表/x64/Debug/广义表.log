@@ -1,0 +1,3 @@
+﻿  广义表.cpp
+E:\code\广义表\广义表.cpp(132,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  广义表.vcxproj -> E:\code\广义表\x64\Debug\广义表.exe
