@@ -1,0 +1,3 @@
+﻿  跳跃表.cpp
+E:\code\跳跃表\跳跃表.cpp(137,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  跳跃表.vcxproj -> E:\code\跳跃表\x64\Debug\跳跃表.exe
