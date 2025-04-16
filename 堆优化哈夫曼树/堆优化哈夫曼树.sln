@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "堆优化哈夫曼树", "堆优化哈夫曼树.vcxproj", "{ADEB453D-1F20-495C-B16E-DEF4282E6635}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADEB453D-1F20-495C-B16E-DEF4282E6635}.Debug|x64.ActiveCfg = Debug|x64
+		{ADEB453D-1F20-495C-B16E-DEF4282E6635}.Debug|x64.Build.0 = Debug|x64
+		{ADEB453D-1F20-495C-B16E-DEF4282E6635}.Debug|x86.ActiveCfg = Debug|Win32
+		{ADEB453D-1F20-495C-B16E-DEF4282E6635}.Debug|x86.Build.0 = Debug|Win32
+		{ADEB453D-1F20-495C-B16E-DEF4282E6635}.Release|x64.ActiveCfg = Release|x64
+		{ADEB453D-1F20-495C-B16E-DEF4282E6635}.Release|x64.Build.0 = Release|x64
+		{ADEB453D-1F20-495C-B16E-DEF4282E6635}.Release|x86.ActiveCfg = Release|Win32
+		{ADEB453D-1F20-495C-B16E-DEF4282E6635}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5E5C33D-3591-4362-97E9-90A5D6D55080}
+	EndGlobalSection
+EndGlobal
